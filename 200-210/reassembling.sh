@@ -1,0 +1,1 @@
+cat SRPMS_BAD1_OK_* > SRPMS_bad1_ok.tar
